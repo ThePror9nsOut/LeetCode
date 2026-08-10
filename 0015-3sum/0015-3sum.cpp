@@ -7,7 +7,7 @@ public:
 
         sort(nums.begin(), nums.end());
 
-    for (int a = 0; a < nums.size(); ++a) {
+    for (int a = 0; a < nums.size(); a++) {
         if (a > 0 && nums[a] == nums[a - 1])
             continue;
 
@@ -18,24 +18,24 @@ public:
             int sum = nums[a] + nums[left] + nums[right];
 
             if (sum < 0)
-                ++left;
+                left++;
             else if (sum > 0)
-                --right;
+                right--;
             else {
                 result.push_back({nums[a], nums[left], nums[right]});
 
-                ++left;
-                --right;
+                left++;
+                right--;
 
                 while (left < right && nums[left] == nums[left - 1])
-                    ++left;
+                    left++;
 
                 while (left < right && nums[right] == nums[right + 1])
-                    --right;
+                    right--;
             }
         }
     }
-    
+
     return result;
 
     }
