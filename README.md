@@ -29,6 +29,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThePror9nsOut/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/ThePror9nsOut/LeetCode/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
