@@ -15,6 +15,7 @@ LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ThePror9nsOut/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ThePror9nsOut/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ThePror9nsOut/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ThePror9nsOut/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ LeetCode solutions
 | [0009-palindrome-number](https://github.com/ThePror9nsOut/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ThePror9nsOut/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ThePror9nsOut/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ThePror9nsOut/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -102,11 +104,11 @@ LeetCode solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThePror9nsOut/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThePror9nsOut/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThePror9nsOut/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
